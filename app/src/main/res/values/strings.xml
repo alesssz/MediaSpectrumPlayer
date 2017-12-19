@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Media &amp; Spectrum Player</string>
+
+    <!-- Stringhe in activity_main.xml -->
+    <string name="main_MediaPlayer">Media Player</string>
+    <string name="main_SpectrumView">Spectrum View</string>
+
+    <string name="main_contDescriptor_BackgroundImage">Background imageView</string>
+
+    <!-- Stringhe in media_player_main.xml -->
+    <string name="mpm_SongList">Lista dei brani disponibili</string>
+
+    <!-- Stringhe in media_player_play.xml -->
+    <string name="mpp_title">Unknown title</string>
+    <string name="mpp_band">Unknown band</string>
+
+    <string name="mpp_contDescriptor_AlbumCoverImage">Album cover image</string>
+    <string name="mpp_contDescriptor_playpauseButton">Play/Pause button</string>
+    <string name="mpp_contDescriptor_backwardButton">Backward button</string>
+    <string name="mpp_contDescriptor_forwardButton">Forward button</string>
+
+    <!-- Stringhe in spectrum_view_main.xml -->
+    <string name="specM_SongList">Lista dei brani disponibili</string>
+
+    <!-- Stringhe in media_player_play.xml -->
+    <string name="specP_title">Unknown title</string>
+    <string name="specP_band">Unknown band</string>
+
+    <string name="specP_contDescriptor_playpauseButton">Play/Pause button</string>
+    <string name="specP_contDescriptor_previousButton">Previous button</string>
+    <string name="specP_contDescriptor_skipButton">Skip button</string>
+
+</resources>
